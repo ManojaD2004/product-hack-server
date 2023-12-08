@@ -1,0 +1,26 @@
+{
+  "name": "product-hack-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dm-coding2004/product-hack-client.git"
+  },
+  "author": "Manoja D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dm-coding2004/product-hack-client/issues"
+  },
+  "homepage": "https://github.com/dm-coding2004/product-hack-client#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "postgres": "^3.4.3"
+  }
+}
